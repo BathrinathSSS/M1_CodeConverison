@@ -52,7 +52,7 @@ Convert Decimal to Octal with Steps
 
 ## Who:
 
-1. Electronics engineering students
+1. Electrical and Electronics Engineering students
 2. Digital circuit developer
 
 ## What:
@@ -61,7 +61,7 @@ A person can convert data to a desired format with the help of this project in t
 
 ## When:
 
-1. At the initial stage of digital circuit designing operation.
+At the initial stage of digital circuit designing operation.
 
 ## Where:
 
