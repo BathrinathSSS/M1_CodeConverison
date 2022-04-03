@@ -47,6 +47,10 @@ Convert Decimal to Octal with Steps
 * The resultant is the equivalent octal number to the given decimal number.
 
 
+# Excess-3
+Excess-3, 3-excess or 10-excess-3 binary code (often abbreviated as XS-3, 3XS or X3), shifted binary or Stibitz code (after George Stibitz who built a relay-based adding machine in 1937) is a self-complementary binary-coded decimal (BCD) code and numeral system. It is a biased representation. Excess-3 code was used on some older computers as well as in cash registers and hand-held portable electronic calculators of the 1970s, among other uses.
+
+
 
 # 4W&#39;s and 1&#39;H
 
