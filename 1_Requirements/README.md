@@ -52,6 +52,12 @@ Excess-3, 3-excess or 10-excess-3 binary code (often abbreviated as XS-3, 3XS or
 
 
 
+# What BCD means?
+
+Binary coded decimal (BCD) is a system of writing numerals that assigns a four-digit binary code to each digit 0 through 9 in a decimal (base-10) numeral. The four-bit BCD code for any particular single base-10 digit is its representation in binary notation, as follows: 0 = 0000. 1 = 0001.
+
+
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
