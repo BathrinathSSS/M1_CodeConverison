@@ -16,9 +16,16 @@
  
 ![codiga](https://api.codiga.io/project/32555/score/svg)  
 
+
+[![C/C++ CI - Build Status](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/c%20CI.yml/badge.svg)](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/c%20CI.yml)
+
+
+[![Contribution Check - Git Inspector](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/gitinspector.yml)
+
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/BathrinathSSS/M1_CodeConverison/actions/workflows/cppcheck.yml)
+
 ##  Code Grade
 
 
 ![codiga](https://api.codiga.io/project/32555/status/svg)  
-
-
