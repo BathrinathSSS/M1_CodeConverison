@@ -29,3 +29,9 @@
 
 
 ![codiga](https://api.codiga.io/project/32555/status/svg)  
+
+
+## Unity Test
+
+
+[![Unit Testing - Unity](https://github.com/Madhuraaaaa/StepIn-Mini-project/actions/workflows/unity.yml/badge.svg)](https://github.com/Madhuraaaaa/StepIn-Mini-project/actions/workflows/unity.yml) 
