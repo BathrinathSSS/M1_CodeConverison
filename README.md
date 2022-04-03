@@ -9,3 +9,12 @@
 * A person can convert data to a desired format with the help of this project in timely manner. 
 * Since, the digital logic circuitry requires numorous calculations of such type, it will be benificial to have such a system. 
 
+## Code Quality Score                                                               
+
+ 
+![codiga](https://api.codiga.io/project/32555/score/svg)  
+
+##  Code Grade
+
+
+![codiga](https://api.codiga.io/project/32555/status/svg)                                         
