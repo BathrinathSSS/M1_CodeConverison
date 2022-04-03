@@ -9,6 +9,8 @@
 * A person can convert data to a desired format with the help of this project in timely manner. 
 * Since, the digital logic circuitry requires numorous calculations of such type, it will be benificial to have such a system. 
 
+
+## BADGES
 ## Code Quality Score                                                               
 
  
@@ -17,4 +19,6 @@
 ##  Code Grade
 
 
-![codiga](https://api.codiga.io/project/32555/status/svg)                                         
+![codiga](https://api.codiga.io/project/32555/status/svg)  
+
+
